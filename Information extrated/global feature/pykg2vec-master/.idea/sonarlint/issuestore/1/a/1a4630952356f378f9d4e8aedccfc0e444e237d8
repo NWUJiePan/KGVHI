@@ -1,0 +1,5 @@
+
+“python:S1192Ã"zDefine a constant instead of duplicating this literal "%s model has not been implemented. please select from: %s" 3 times.(ÈÕðØ
+Vpython:S112’">Replace this generic exception class with a more specific one.(þÖšÚ
+mpython:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÇìÏè
+hpython:S116Š"PRename this field "modelMap" to match the regular expression ^[_a-z][_a-z0-9]*$.(ú¯×Á
