@@ -1,6 +1,6 @@
 # KGVHI
 ## Datasets
-This work used three different microbe-host interactions dataset, including human-virus interactions, human-bacteria interactions and phage-bacteria interactions dataset.
+This work used three different microbe-host interactions datasets, including human-virus interactions, human-bacteria interactions and phage-bacteria interactions dataset.
 ## Requirements
 The global topological structure information was extracted by InteractE algorithm.
 The local biological attribute information was edxtracted by Word2vec algorithm.
